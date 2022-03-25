@@ -1,0 +1,15 @@
+.replyHolder {
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 10% 35% 30% 25%;
+    padding: 10px;
+    row-gap: 10px;
+}
+
+.RepliedTo {
+    color: var(--textColor);
+    font-weight: bold;
+}

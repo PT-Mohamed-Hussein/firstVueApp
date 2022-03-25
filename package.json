@@ -1,0 +1,25 @@
+{
+    "name": "interactivecommentssection",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview --port 5050"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.1.1",
+        "@fortawesome/free-regular-svg-icons": "^6.1.1",
+        "@fortawesome/free-solid-svg-icons": "^6.1.1",
+        "@fortawesome/vue-fontawesome": "^3.0.0-5",
+        "aos": "^2.3.4",
+        "git": "^0.1.5",
+        "vue": "^3.2.31"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^2.2.2",
+        "@vue/test-utils": "^2.0.0-rc.18",
+        "jsdom": "^19.0.0",
+        "prettier": "^2.5.1",
+        "vite": "^2.8.4"
+    }
+}
